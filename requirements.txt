@@ -6,3 +6,4 @@ Pillow
 segment_anything
 streamlit
 torch
+torchvision
