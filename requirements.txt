@@ -5,3 +5,4 @@ pandas
 Pillow
 segment_anything
 streamlit
+torch
